@@ -35,7 +35,7 @@
     </section>
 
     <footer class="page-footer">
-      Беларсуь, Гродно 2020
+      Беларсуь, Гродно 2020 январь
     </footer>
   </body>
 </html>
